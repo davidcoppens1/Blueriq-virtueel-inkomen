@@ -17,6 +17,6 @@ A decision table is used to determine the values of the parameters:
 A knowledge rule is used to determine whether someone is eligible for a surcharge (toeslag).  
 ![eligible for surcharge](/Blueriq-virtueel-inkomensloket/images/RechtOpToeslag2022.png "eligible for surcharge")  
 A decision table is used to calculate the surcharge (toeslag). This decision table calculates the amount of the surcharge (can also be zero).  
-![surcharge 2021](/Blueriq-virtueel-inkomensloket/images/BerekeningToeslag2021.png "surcharge 2021")  
+![surcharge 2021](/Blueriq-virtueel-inkomensloket/images/BerekeningToeslag2021.png =600x)  
 A decision table is used for feedback. This indicates whether and how much surcharge has been calculated.  
 ![surcharge 2022](/Blueriq-virtueel-inkomensloket/images/BerekeningToeslag2022.png "surcharge 2022")  
